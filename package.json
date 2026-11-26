@@ -1,0 +1,23 @@
+{
+  "name": "x402-check",
+  "version": "0.1.0",
+  "description": "Validate that an HTTP endpoint correctly implements the x402 (HTTP 402) payment protocol.",
+  "bin": {
+    "x402-check": "index.js"
+  },
+  "main": "index.js",
+  "type": "commonjs",
+  "license": "MIT",
+  "keywords": [
+    "x402",
+    "http-402",
+    "usdc",
+    "base",
+    "payments",
+    "agents"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OWNER/x402-check"
+  }
+}
